@@ -1,8 +1,6 @@
-Wagerr
-========
 WagerrOS
---------
-Wagerr OS is a collection of different Linux Distribution media with Wagerr software ready installed.  It is broken down into 4 different sets of images available at https://github.com/wagerr/wagerros/releases
+========
+WagerrOS is a collection of different Linux Distribution media with Wagerr software ready installed.  It is broken down into 4 different sets of images available at https://github.com/wagerr/wagerros/releases
 
 1) Wagerr ISO -- this is an install-to computer iso image that will install Ubuntu WagerrOS to a local computer.  Available in both i386 and amd64 versions - updated automatically from the master ionomy ppa https://github.com/wagerr/wagerros/releases/tag/Wagerr-iso
 
