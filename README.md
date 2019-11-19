@@ -10,8 +10,4 @@ WagerrOS is a collection of different Linux Distribution media with Wagerr softw
 
 4) Wagerr Raspian -- Ready-to-run disk image for Raspberry Pi 3 https://github.com/wagerr/wagerros/releases/tag/Wagerr-raspi
 
-This repository also contains packages for:
--------------------------------------------
-1) Fedora 27: x86_64 , i686, aarch64, armv7hl, and source code https://github.com/wagerr/wagerros/releases/tag/wagerr-rpm-fed-27
-2) Fedora 28: x86_64 , i686, aarch64, armv7hl, and source code https://github.com/wagerr/wagerros/releases/tag/wagerr-rpm-fed-28
-3) Raspian stretch: armhf https://github.com/wagerr/wagerros/releases/tag/Wagerr-raspi
+
