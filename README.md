@@ -8,6 +8,6 @@ WagerrOS is a collection of different Linux Distribution media with Wagerr softw
 
 3) Wagerr VDI -- These images are meant for use in Oracle VIrtualBox environments.  Again, i386 and amd64 versions are available - updated automatically from the master wagerr ppa https://github.com/wagerr/wagerros/releases/tag/Wagerr-vdi
 
-4) Wagerr Raspian -- Ready-to-run disk image for Raspberry Pi 3 https://github.com/wagerr/wagerros/releases/tag/Wagerr-raspi
+4) Wagerr Raspian -- Ready-to-run disk image for Raspberry Pi 3 https://github.com/wagerr/wagerros/releases/tag/Wagerr-raspi-4.0.00
 
 
